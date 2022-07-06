@@ -1,7 +1,21 @@
 # Ok-clone-
 Unlimited Ok Id clone 
- git clone https://github.com/TAHIDUL-123/Ok-clone-
+➡ apt update
 
-cd Ok-clone-
+➡ apt upgrade
 
-python Ok-clone.py
+➡ pkg install python
+
+➡ pkg install python2
+
+➡ pkg install git
+
+➡ pip2 install requests
+
+➡ pip2 install mechanize
+
+➡ git clone https://github.com/TAHIDUL-123/Ok-clone-
+
+➡ cd Ok-clone-
+
+➡ python Ok-clone.py
